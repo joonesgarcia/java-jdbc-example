@@ -1,5 +1,4 @@
 package entities;
-// Nao usei INTERFACE nesta SUPERCLASSE uma vez que as suas SUBCLASSES foram obtidas por heranca simples.
 
 abstract class Produto {		
 	
